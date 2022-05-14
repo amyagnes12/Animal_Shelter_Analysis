@@ -4,4 +4,4 @@
 https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics
 - With this dataset, I want to create various visualizations to show the different trends of animals at the shelter -- for example, trends of animals entering and leaving the shelter. I also want to find a best machine learning model to predict the status of the animals based on other factors.  
 - Clean Austin_Animal_Center_Intakes.csv file using Pandas-> clean Austin_Animal_Center_Outcomes.csv file using Pandas -> Create tables for intakes and outcomes and join two tables in SQL -> Create machine learning model with clean data -> Create multiple visualizations in Tableau
--Machine Learning Model: Using the Random Forest Model to predict outcome types of animals in the shelter(target).
+- Machine Learning Model: Using the Random Forest Model to predict outcome types of animals in the shelter(target).
