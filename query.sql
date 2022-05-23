@@ -8,6 +8,7 @@ CREATE TABLE intakes (
 	animal_type VARCHAR(5) NOT NULL,
 	sex_upon_intake VARCHAR(10) NOT NULL,
 	age_upon_intake FLOAT NOT NULL,
+	breed VARCHAR(50) NOT NULL,
 	PRIMARY KEY (animal_id)		
 );
 
@@ -31,6 +32,7 @@ intakes.intake_date,
 	intakes.animal_type,
 	intakes.sex_upon_intake,
 	intakes.age_upon_intake,
+	intakes.breed,
 	outcomes.outcome_date,
 	outcomes.outcome_type,
 	outcomes.age_upon_outcome
