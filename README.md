@@ -21,6 +21,8 @@ https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics
 4) Create bar graphs to compare the outcome types for healthy cats and sick cats.
 5) Create bar graphs to compare the average days that healthy cats and sick cats stayed in the center. 
 
+- Technologies, languages, tools, and algorithms used throughout the project: Pandas, pgAdmin, PostgreSQL, random forest classifier, resampling techniques, and Tableau
+
 ## Machine Learning Model
 - The random forest classifier was used to predict the outcome status of the cats based on other factors -- adopted or returned to owner, died or missing, euthanized, still in center, or transferred to other centers. I chose the random forest classifier because my dataset was large and had multiple input variables. However, the classes in a dataset were heavily imbalanced as below.
 ![outcome_type](Resources/outcome_type.png)
