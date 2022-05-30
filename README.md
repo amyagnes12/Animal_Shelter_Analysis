@@ -41,3 +41,14 @@ Since the imbalanced dataset can cause the models to be biased toward the majori
 ## Presentation
 - [Good Slides Link](https://docs.google.com/presentation/d/1A72A7Gl3RN6CEYklB8U5xz4t4mKqKVAY3215mDiSwmc/edit#slide=id.p)
 - [Tableau Dashboard Link](https://public.tableau.com/app/profile/ayoung.kim2278/viz/Animal_center_analysis_Story/AustinAnimalCenterAnalysisCat)
+
+## Recommendation for future analysis
+- I recommend creating a machine learning model to predict how many animals will enter the shelter in the future.
+
+## Anything I would have done differently
+- I focused on the cats for this analysis beacuase the data was less messy. If the data for dogs wasn't as messy as it is right now and did not require tons of data cleaning then I would have analyzed both dogs and cats and show more insights related to dogs and cats.
+
+
+
+
+
