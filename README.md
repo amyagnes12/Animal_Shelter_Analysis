@@ -1,6 +1,6 @@
 # Animal Shelter Analysis 
 ## The overview of the project
-- Reson why I selected this topic: I have a cat named Frederick, whom I adopted from the local shelter. Ever since, I have been interested in animals in the shelter so I wanted to check if I can find the trends of animals entering and leaving the shelter.
+- Reson why I selected this topic: I have a cat named Frederick, who I adopted from the local shelter. Ever since, I have been interested in animals in the shelter so I wanted to check if I can find the trends of animals entering and leaving the shelter.
 
 - The source of data: I found a data from Austin Animal Center on Kaggle related to shelter animals, which contained data on animals at the center. However, the data was large and messy. For example, dog breeds spanned across thousands of different breeds. Since the data on cats was the least messy, I decided to focus on cat data from 2014 to 2020 for this analysis.
 https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics
